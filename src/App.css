@@ -1,0 +1,10 @@
+.clickEffect:active{
+    scale: calc(0.99);
+}
+
+.newsScroll{
+    height: 100vh;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
